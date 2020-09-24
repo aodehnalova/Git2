@@ -22,5 +22,10 @@ namespace Git2
             //ahoj
             //zmena2
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //tlacitko zmena3
+        }
     }
 }
